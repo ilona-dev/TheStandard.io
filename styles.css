@@ -1,6 +1,10 @@
 .container {
-  margin: 0 auto;
-  width: 960px;
+  display: inline-block;
+  position: relative;
+  width: 90%;
+  padding-bottom: 100%;
+  vertical-align: middle;
+  overflow: hidden;
 }
 
 .group-1 {
@@ -68,6 +72,11 @@
 .list-icon {
   left: 290px;
   top: 120px;
+}
+.boxtime-icon {
+  left: 272px;
+  top: 411px;
+  width: 128px;
 }
 .ellipse {
   position: absolute;
