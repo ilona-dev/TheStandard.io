@@ -1,0 +1,85 @@
+.container {
+  margin: 0 auto;
+  width: 960px;
+}
+
+.group-1 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+}
+.top-line {
+  height: 87px;
+}
+.vertical {
+  object-fit: cover;
+  position: absolute;
+  width: 5px;
+  left: 332px;
+}
+.horizontal {
+  background-color: transparent;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  width: 251px;
+}
+
+.line-1 {
+  top: 10px;
+}
+.line-2 {
+  left: 14px;
+  top: 165px;
+}
+.line-3 {
+  top: 240px;
+}
+.line-4 {
+  left: 406px;
+  top: 472px;
+}
+
+.curve {
+  height: 78px;
+  object-fit: cover;
+  position: absolute;
+  width: 78px;
+}
+.shape-1 {
+  left: 260px;
+  top: 93px;
+}
+.shape-2 {
+  left: 333px;
+  top: 166px;
+}
+.shape-3 {
+  top: 398px;
+  left: 333px;
+}
+.icon {
+  color: white;
+  padding: 20px 25px;
+  position: absolute;
+}
+.list-icon {
+  left: 290px;
+  top: 120px;
+}
+.ellipse {
+  position: absolute;
+  left: 280px;
+}
+.e-1 {
+  top: 113px;
+}
+.e-2 {
+  top: 420px;
+}
+.whitepaper {
+  position: absolute;
+  top: 130px;
+}
